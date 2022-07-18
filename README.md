@@ -1,4 +1,4 @@
-This> #### <h1 align="center">ugoMuski</h1>
+> #### <h1 align="center">ugoMuski</h1>
 > <a href="#"><img width="100%" height="auto" src="https://i.imgur.com/iXuL1HG.png" height="175px"/></a>
 >
 > <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">, Welcome to my page! </h1>
@@ -17,7 +17,7 @@ This> #### <h1 align="center">ugoMuski</h1>
 > 
 > - 🥅 Goals: Solving Problems and contributing more to Open source Projects
 >
-> - ⚡ Fun fact: I love expressing myself through singing Music ( Fan of #greatmusic)
+> - ⚡ Fun fact: I always love expressing myself through singing ( Fan of #greatmusic)
 
 >
 ><h3 align="left">Connect with me:</h3>
