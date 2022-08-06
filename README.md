@@ -3,7 +3,7 @@
 >
 > <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! Welcome to my page </h1>
 > <h3 align="center"> It's a dream come true for me😎, 
-> Here are some things you probably dont know about me, "I guess you might"</h3>
+> Here are some things you should know about me</h3>
 >
 > ## 🙋‍♂️ About Me
 >
