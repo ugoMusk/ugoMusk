@@ -1,13 +1,13 @@
 > #### <h1 align="center">ugoMuski</h1>
 > <a href="#"><img width="100%" height="auto" src="https://avatars.githubusercontent.com/u/34632702?v=4" height="175px"/></a>
 >
-> <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px">! Welcome to my page </h1>
+> <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my page </h1>
 > <h3 align="center"> It's a dream come true for me😎, 
 > Here are some things you should know about me</h3>
 >
 > ## 🙋‍♂️ About Me
 >
-> - 🔭 I’m a Full Stack Developer || Software Engineer || UI & UX Designer
+> - 🔭 I’m a Full Stack Developer || Software Engineer || Pastry Chef || Tech Enthusiasts 
 > 
 > - 🤔 I’m looking for **Remote jobs related to my skillset**
 >
