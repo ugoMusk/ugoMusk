@@ -7,11 +7,11 @@
 >
 > ## 🙋‍♂️ About Me
 >
-> - 🔭 I’m a Full Stack Developer || Software Engineer || Pastry Chef || Tech Enthusiasts 
+> - 🔭 I’m a Backend Developer || Software Engineer || Pastry Chef || Tech Enthusiasts 
 > 
 > - 🤔 I’m looking for **Remote jobs related to my skillset**
 >
-> - 💬 Ask me about anything Full Stack Developement, I would be glad to answer you.
+> - 💬 Ask me about about Developement, I would be glad to answer you.
 >
 > - 📫 **How to reach me **ugobothankgod@gmail.com****
 > 
