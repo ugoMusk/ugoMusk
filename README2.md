@@ -97,15 +97,12 @@
 <div align="center">
   <a href="https://github.com/ugoMusk" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoMusk&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
-  </a>￼Enter</div>
-
+<hr>
 <div align="center"> Software Engineer </div>
 <div align="center"> Devops </div>
 <hr>
-
 * ✉️  Contact: [ugobothankgod@gmail.com](ugobothankgod@gmail.com)
-
-* AI enthusiast!
+* An AI enthusiast
 * 🤝  Open to lend my skills and experience on any major software project
 * ⚡  My supper power is research. It's proven to be the way to make development less of a nightmare.
 
