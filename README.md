@@ -116,7 +116,7 @@ src="https://img.shields.io/twitter/follow/ugoMusk?logo=twitter&style=for-the-ba
   <img src="https://img.shields.io/badge/Cloud-AWS-informational?style=flat&logo=amazon-aws&logoColor=white&color=2bbc8a" alt="AWS"/>
   <img src="https://img.shields.io/badge/Code-Python-informational?style=flat&logo=python&logoColor=white&color=2bbc8a" alt="Python"/>
   <img src="https://img.shields.io/badge/VCS-Git-informational?style=flat&logo=git&logoColor=white&color=2bbc8a" alt="Git"/>
-  <img src="https://img.shields.io/badge/Hub-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="GitHub"/>
+  <img src="https://img.shields.io/badge/Host-Github-informational?style=flat&logo=github&logoColor=white&color=2bbc8a" alt="GitHub"/>
   <img src="https://img.shields.io/badge/Shell-Bash-informational?style=flat&logo=gnu-bash&logoColor=white&color=2bbc8a" alt="Bash"/>
   <img src="https://img.shields.io/badge/Container_Runtime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Docker"/>
 </div>
