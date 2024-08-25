@@ -8,7 +8,7 @@
 > ## 🙋‍♂️ About Me
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&lines=I+am+your+favourite.;Software+Engineer;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&lines=I+am+your+favourite;Software+Engineer;">
   </a>
 </div>
 - 🔭 A Backend Developer || Software Engineer || Pastry Chef || Tech Enthusiasts
