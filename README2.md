@@ -75,7 +75,7 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&lines=Please+Don't+just+scroll!; Let's+Connect❤️!;">
+    <img src="https://readme-typing-svg.herokuapp.com font=Fira+Code&center=true&width=500&lines=Please+Do+not+just+scroll;Let+us+Connect❤️;">
   </a>
 
 
