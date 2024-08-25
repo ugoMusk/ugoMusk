@@ -11,18 +11,18 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&lines=I+am+a+your+favourite.;Software+Engineer;">
   </a>
 </div>
-> - 🔭 A Backend Developer || Software Engineer || Pastry Chef || Tech Enthusiasts
->
-> - 🤔 I’m looking for **Remote jobs related to my skillset**
->
-> - 💬 Ask me about about Developement, I would be glad to answer you.
->
-> - 📫 **How to reach me **ugobothankgod@gmail.com****
->
-> - 🥅 Goals: Solving Problems and contributing more to Open source Projects
->
-> - ⚡ Fun fact: I always love expressing myself through singing ( Fan of #greatmusic)
-
+- 🔭 A Backend Developer || Software Engineer || Pastry Chef || Tech Enthusiasts
+<hr>
+- 🤔 I’m looking for **Remote jobs related to my skillset**
+<hr>
+- 💬 Ask me about about Developement, I would be glad to answer you.
+<hr>
+-📫 **How to reach me [ugobothankgod@gmail.com](ugobothankgod@gmail.com)
+<hr>
+- 🥅 Goals: Solving Problems and contributing more to Open source Projects
+<hr>
+- ⚡ Fun fact: I sometimes love expressing myself through singing ( i'm fan of great music)
+<hr>
 <h3 align="left">Connect with me:</h3>
 <p align="left">
  <a href="https://www.linkedin.com/mwlite/in/ugobo-thankgod-99703a91" target="_blank"><img align="center"
@@ -63,13 +63,11 @@
             <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/sass/sass-original.svg" alt="sass" width="40" height="40" /> </a>
 <br>
 <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoMusk&layout=compact&theme=light&hide_border=false" />
-> <img align="left" src="https://github-readme-stats.vercel.app/api?username=ugoMusk&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Readme Streak" />
-> <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugoMusk&" alt="Ugobo ThankGod" /></p>
-> <br/>
-> <b>Note:</b> The languages shown here are a measure of my skill set, subject to constant review.
+<img align="left" src="https://github-readme-stats.vercel.app/api?username=ugoMusk&show_icons=true&include_all_commits=true&count_private=true&layout=compact&theme=light&hide_border=false&border_radius=2&hide=contribs" alt="Readme Streak" />
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=ugoMusk&" alt="Ugobo ThankGod" /></p>
+<br/>
+<b>Note:</b> The languages shown here are a measure of my skill set, subject to constant review.
 
-
-> <a href="https://github.com/ugoMusk/github-readme-activity-graph"><img alt="Ugobo ThankGod" Activity Graph" src="https://activity-graph.herokuapp.com/graph?username=ugoMusk&bg_color=0D1117&color=5BCDEC&line=5BCDEC&point=FFFFFF&hide_border=true" /></a>
 
 <br/>
 
@@ -91,44 +89,13 @@
     <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&lines=I+am+a+your+favourite.;Software+Engineer;">
   </a>
 
-><h3 align="left">Connect with me:</h3>
-><p align="left">
-> <a href="https://www.linkedin.com/mwlite/in/ugobo-thankgod-99703a91" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg"
->      alt="ugoMuski" height="30" width="40" /></a>
->    <a href="https://wa.link/6ei0uo" target="_blank_"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/whatsapp.svg"
->      alt="Ugobo ThankGod" height="30" width="40" /></a>
->  <a href="https://www.facebook.com/Utechnologis/" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/facebook.svg"
->      alt="Ugobo ThankGod" height="30" width="40" /></a>
->  <a href="https://www.instagram.com/ugoMusk_official/" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
->      alt="Ugobo ThankGod" height="30" width="40" /></a>
-> <a href="https://mobile.twitter.com/ugoMusk" target="_blank"><img align="center"
->      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
->      alt="Ugobo ThankGod" height="30" width="40" /></a>
-> </p>
->
-> <br>
->
-> <hr>
-<div align="center">
-  <h2>🔧 Skills</h2>
-<p align="center">
 
-<img src="https://img.shields.io/badge/Container_Ru\
-ntime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" alt="Kubernetes"/>
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/9/93/Amazon_Web_Services_Logo.svg" width="40" height="40" alt="Amazon Web Services" /></a>
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/python-colored.svg" width="36" height="36" alt="Python" /></a>
-<a href="https://dart.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/dart-colored.svg" width="36" height="36" alt="Dart" /></a>
-<a href="https://developer.mozilla.org/en-US/docs/Web/JavaScript" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/danielcranney/readme-generator/main/public/icons/skills/javascript-colored.svg" width="36" height="36" alt="JavaScript" /></a>
 
 <div align="center">
 <h2 align="centre">🔖 Publications</h2>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
-[![Medium](https://img.shields.io/badge/Hashnode-2962FF?style=for-the-badge&logo=hashnode&logoColor=white)](#)
+[![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
  </div>
  <hr>
 
@@ -144,9 +111,6 @@ ntime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" 
   <a href="https://github.com/ugoMusk" align="left">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=ugoMusk&langs_count=10&title_color=10b981&text_color=ffffff&icon_color=0891b2&bg_color=1c1917&hide_border=true&locale=en&custom_title=Top%20%Languages" alt="Top Languages" />
   </a>￼Enter</div>
-
-
-<hr>
 
 <div align="center"> Software Engineer </div>
 <div align="center"> Devops </div>
@@ -194,5 +158,3 @@ ntime-Docker-informational?style=flat&logo=docker&logoColor=white&color=2bbc8a" 
 <a href="https://cloud.withgoogle.com/" target="_blank" rel="noreferrer"><img src="https://upload.wikimedia.org/wikipedia/commons/5/51/Google_Cloud_logo.svg" width="150" height="150" alt="Google Cloud" /></a>
   </p>
 </div>
-
-<hr>
