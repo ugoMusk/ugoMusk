@@ -37,8 +37,8 @@
   <a href="https://www.instagram.com/ugoMusk_official/" target="_blank"><img align="center"
       src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/instagram.svg"
       alt="Ugobo ThankGod" height="30" width="40" /></a>
- <a href="https://mobile.twitter.com/ugoMusk" target="_blank"><img align="center"
-      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg"
+ <a href="https://x.com/ugoMusk_dev?t=Oj2o3QsG7MkQKghYgYZWfA&s=09" target="_blank"><img align="center"
+      src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/X.svg"
       alt="Ugobo ThankGod" height="30" width="40" /></a>
  </p>
  <br>
