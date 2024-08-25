@@ -1,9 +1,9 @@
-> #### <h1 align="center">ugoMuski</h1>
+> #### <h1 align="center">ugoMusk-i</h1>
 > <a href="#"><img width="100%" height="auto" src="https://avatars.githubusercontent.com/u/34632702?v=4" height="175px"/></a>
 >
 > <h1 align="center">Hi! <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px"> Welcome to my page </h1>
-> <h3 align="center"> It's a dream come true for me😎,
-> Here are some things you should know about me</h3>
+> <h3 align="center"> It's a dream come true😎,
+> Here are a few things you should know</h3>
 >
 > ## 🙋‍♂️ About Me
 <div align="center">
@@ -75,20 +75,19 @@
 
 <div align="center">
   <a href="https://github.com/DenverCoder1/readme-typing-svg">
-    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&lines=I+am+a+your+favourite.;Software+Engineer;">
+    <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&center=true&width=500&lines=Please+Don't+just+scroll!; Let's+Connect❤️!;">
   </a>
 
 
 
 <div align="center">
-<h2 align="centre">🔖 Publications</h2>
+<h2 align="centre">Articles</h2>
 
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
 [![Medium](https://img.shields.io/badge/Medium-12100E?style=for-the-badge&logo=medium&logoColor=white)](#)
  </div>
  <hr>
-
-<b>📈 My Github Stats</b>
+<b>📈 Github Stats</b>
 
 <div align="center">
   <a href="http://www.github.com/ugoMusk">
